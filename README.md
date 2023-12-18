@@ -52,8 +52,7 @@ The project structure is organized as follows:
    npm start
    ```
 
-5. **Open the Application:**
-   Visit [http://localhost:3000](http://localhost:3000) in your browser.
+
 
 ## Learning Objectives
 
@@ -64,6 +63,6 @@ The project structure is organized as follows:
 
 ## Project Contributors
 
-Akinyemi Taiwo Hassa
+Akinyemi Taiwo Hassan
 
 Feel free to explore, experiment, and extend this project to further enhance your React skills. Happy coding! 🚀
